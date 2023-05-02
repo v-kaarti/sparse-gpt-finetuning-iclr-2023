@@ -68,4 +68,4 @@ no fine-tuning in all cases, but is beaten out significantly by both iterative p
 methods beyond 0.5 sparseness.
 
 # Raw Data
-We provide the raw data as .pickle files for researchers who wish to incorporate our results:
+We provide the raw data as .pickle files for researchers who wish to incorporate our results: [COMING SOON]
