@@ -4,6 +4,10 @@
 - Aaquib Syed | [asyed04@umd.edu](mailto:asyed04@terpmail.umd.edu)
 - Phillip Huang Guo | [phguo@umd.edu](mailto:phguo@terpmail.umd.edu)
 
+# Paper Link
+
+[https://openreview.net/forum?id=cKlgcx7nSZ](https://openreview.net/forum?id=cKlgcx7nSZ)
+
 # Sparse-GPT-Finetuning
 
 Massive language models with billions of parameters have significant compute expenses and thus can benefit from pruning. 
